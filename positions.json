@@ -1,0 +1,45 @@
+{
+  "users": {
+    "344270327439818762": {
+      "cc": [
+        {
+          "id": 1,
+          "ticker": "SOFI",
+          "strike": 32.0,
+          "contracts": 8,
+          "expiry": "2025-11-14",
+          "entry_credit": 0.56
+        },
+        {
+          "id": 2,
+          "ticker": "NIO",
+          "strike": 8.0,
+          "contracts": 1,
+          "expiry": "11-14-2025",
+          "entry_credit": 0.15
+        },
+        {
+          "id": 3,
+          "ticker": "LUNR",
+          "strike": 13.0,
+          "contracts": 1,
+          "expiry": "2025-11-14",
+          "entry_credit": 0.66
+        }
+      ],
+      "closed": [
+        {
+          "id": 4,
+          "ticker": "GME",
+          "strike": 28.0,
+          "contracts": 10,
+          "expiry": "2025-11-14",
+          "entry_credit": 0.56,
+          "closed_at": "2025-11-03 18:06:00",
+          "btc_price": 0.56,
+          "pnl_pct": 0.0
+        }
+      ]
+    }
+  }
+}
