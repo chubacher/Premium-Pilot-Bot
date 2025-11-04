@@ -1,0 +1,4 @@
+event,trade_id,user_id,position_id,timestamp_utc,timestamp_local,ticker,option_type,strike,contracts,expiration,premium_credit,premium_debit,pnl,delta,gamma,theta,vega,iv
+OPEN_CC,4,344270327439818762,4,2025-11-04T13:28:03+00:00,,GME,C,28.0,1,2025-11-14,0.16,,,,,,,
+CLOSE_CC,4,344270327439818762,4,2025-11-04T13:29:57+00:00,,GME,C,28.0,1,2025-11-14,0.16,,,,,,,
+OPEN_CC,4,344270327439818762,4,2025-11-04T13:37:52+00:00,2025-11-04 08:37:52 AM EST,GME,C,28.0,1,2025-11-14,0.14,,,,,,,
